@@ -7,12 +7,12 @@ This represents 10 ECGs for each of the 6 clinical labels from:
 
 ### The ECGs include the following clinical labels:  
 
-#### Rhythm disorderes  
+#### Rhythm disorders  
 - atrial fibrillation (AF)   
 - sinus tachycardia (ST)   
 - sinus bradycardia (SB))  
 
-#### Conduction disorderes  
+#### Conduction disorders  
 - 1st degree AV block (1dAVB)
 - Right bundle branch block (RBBB)  
 - Left bundle branch block (LBBB)  
